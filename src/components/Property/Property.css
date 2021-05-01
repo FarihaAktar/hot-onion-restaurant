@@ -1,0 +1,25 @@
+.property{
+    /* border: 1px solid blue; */
+    padding: 15px 0;
+    text-align: center;
+    line-height: 5px;
+    border-radius: 5px;
+}
+.property:hover{
+    box-shadow: 7px 7px 30px lightgray;
+}
+
+.property img{
+    width: 200px;
+    /* border: 1px solid red; */
+}
+.property h4{
+    color: rgb(53, 52, 52);
+    line-height: 16px;
+}
+.property h6{
+    color: gray;
+}
+a{
+    text-decoration: none;
+}

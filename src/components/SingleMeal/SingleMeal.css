@@ -1,0 +1,31 @@
+.single-meal{
+    /* border: 1px solid red; */
+    display: flex;
+    width: 80%;
+    margin: 20px auto;
+}
+.meal{
+    /* border: 1px solid rgb(42, 165, 42); */
+    margin-top: 50px;
+    margin-right: 150px;
+    line-height: 25px;
+    /* text-align: center; */
+}
+
+.meal-img img{
+    /* border: 1px solid blue; */
+    width: 500px;
+}
+
+.add-btn{
+    padding: 15px 50px;
+    border-radius: 30px;
+    background-color: rgb(128, 155, 8);
+    border: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.add-btn:hover{
+    border: 1px solid rgb(72, 102, 2);
+}

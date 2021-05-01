@@ -1,0 +1,8 @@
+.category{
+    display: grid;
+    grid-template-columns: repeat(3, 285px);
+    grid-gap: 30px 120px;
+    width: 82%;
+    /* border: 1px solid purple; */
+    margin: 20px auto;
+}
